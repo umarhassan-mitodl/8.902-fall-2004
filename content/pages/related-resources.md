@@ -12,28 +12,28 @@ uid: f03329c6-d683-2f08-7415-3a2759447339
 
 The following links will take you to Web sites which are especially useful, informative, and entertaining.
 
-{{% resource_link "6ba7d904-7659-47f2-9cb9-45546e730fc2" "The Great Shapley-Curtis Debate of 1920 on the Scale of the Universe" %}}
+[The Great Shapley-Curtis Debate of 1920 on the Scale of the Universe](http://antwrp.gsfc.nasa.gov/diamond_jubilee/debate20.html)
 
-{{% resource_link "8a14161c-ae09-4221-a93e-3d6c9abe7ca4" "Astronomy Picture of the Day Index" %}}
+[Astronomy Picture of the Day Index](http://antwrp.gsfc.nasa.gov/apod/lib/aptree.html)
 
-{{% resource_link "99c31915-1f5b-4991-9b01-1be837a20d6a" "Hubble Space Telescope Images" %}}
+[Hubble Space Telescope Images](https://hubblesite.org/mission-and-telescope/the-telescope)
 
-{{% resource_link "14d48ed0-a601-489c-9d3e-cb99354e35f8" "Color Photographs from the Anglo-Australian Observatory" %}}
+[Color Photographs from the Anglo-Australian Observatory](http://newt.phys.unsw.edu.au/~mgb/astroimages.html)
 
-{{% resource_link "77e1f4ba-1291-4c3d-9479-db7b1359709f" "STScI Digitized Sky Survey: The Whole Sky, gif or fits" %}}
+[STScI Digitized Sky Survey: The Whole Sky, gif or fits](http://archive.stsci.edu/cgi-bin/dss_form)
 
-{{% resource_link "bc42ab89-74c5-4325-8e56-02748d6bf080" "Falling into a Black Hole (GIF movies)" %}}
+[Falling into a Black Hole (GIF movies)](https://jila.colorado.edu/~ajsh/bh/schw.html)
 
-{{% resource_link "fecacc7f-cac7-4381-88ee-07ec6308bc8a" "The Milky Way Collides with the Andromeda Galaxy 3 Gyr from Now (MPEG Movies)" %}}
+[The Milky Way Collides with the Andromeda Galaxy 3 Gyr from Now (MPEG Movies)](http://www.nasa.gov/mission_pages/hubble/science/milky-way-collide.html)
 
 *Very Useful but Less Entertaining*
 
-{{% resource_link "069821c5-cb61-44c4-9854-694089633617" "NASA Astrophysics Data System ABSTRACT SERVICE" %}}
+[NASA Astrophysics Data System ABSTRACT SERVICE](http://adsabs.harvard.edu/abstract_service.html)
 
-{{% resource_link "def488eb-b9f0-422e-bb60-97e90b5b0f8d" "Prof. Bill Press' Introduction to Astrophysics Course at Harvard U" %}}
+[Prof. Bill Press' Introduction to Astrophysics Course at Harvard U](http://www.lanl.gov/DLDSTP/ay45/ay45top.html)
 
-{{% resource_link "d86dfbc0-a144-4847-bf86-532da7e0d0f3" "Astronomical Coordinate Systems" %}}
+[Astronomical Coordinate Systems](http://www.seds.org/~spider/spider/ScholarX/coords.html)
 
 *Less Useful but More Entertaining*
 
-{{% resource_link "de06e517-f63d-4625-9bd3-cac0bcc11ffa" "MIThenge" %}}
+[MIThenge](http://web.mit.edu/planning/www/mithenge.html)
