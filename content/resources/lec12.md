@@ -9,6 +9,8 @@ description: Part 12, Chapter 1 (Galaxies) of the course lecture notes. The lect
 file: /courses/8-902-astrophysics-ii-fall-2004/edc32af0ab177def26de11ea73d6844f_lec12.pdf
 file_size: 146227
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
