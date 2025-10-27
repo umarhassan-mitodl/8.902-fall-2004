@@ -9,8 +9,6 @@ description: Part 11, Chapter 1 (Galaxies) of the course lecture notes. The lect
 file: /courses/8-902-astrophysics-ii-fall-2004/15bf4ed2d8b1247fc667162259f251d0_lec11.pdf
 file_size: 144788
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

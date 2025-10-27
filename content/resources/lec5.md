@@ -9,8 +9,6 @@ description: Part 5, Chapter 1 (Galaxies) of the course lecture notes. The lectu
 file: /courses/8-902-astrophysics-ii-fall-2004/29eeaa289e7f7472fde0837f4dd113f1_lec5.pdf
 file_size: 130420
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This section provides lecture notes taken in the Fall of 2001 by Je
   Schnittman, a student in the subject. He used Professor Paul Schechter's handwritten
   notes in producing them. The figures were produced by Caitlin Millard during June-August
   2004. Used with permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

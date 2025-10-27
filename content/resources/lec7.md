@@ -9,8 +9,6 @@ description: Part 7, Chapter 1 (Galaxies) of the course lecture notes. The lectu
 file: /courses/8-902-astrophysics-ii-fall-2004/d3e3b3c1cf354bd27a2d006cd0d0bbe0_lec7.pdf
 file_size: 190627
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
