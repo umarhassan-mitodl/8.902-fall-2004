@@ -10,7 +10,7 @@ uid: ab19bbb3-c3b1-7a1a-e845-bc698eaf6b0f
 ---
 ## Errata
 
-[Errata for Binney and Tremaine](https://arxiv.org/abs/astro-ph/9304010)
+{{% resource_link "8b8d2ff2-e95e-4967-b8f9-9531c1d03b22" "Errata for Binney and Tremaine" %}}
 
 ## Miscellaneous
 
